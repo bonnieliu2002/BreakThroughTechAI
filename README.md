@@ -10,13 +10,13 @@ Program consists of the following:
   * Attend one monthly Maker Day event in-person at UCLA’s Samueli College of Engineering
 
 ## Curriculum Breakdown
-* Week 1: ML in a Nutshell
-* Week 2: Managing Data for ML
-* Week 3: Core ML Algorithms
-* Week 4: Logistic Regression and Applied Case Studies
-* Week 5: Model Selection and Evaluation
-* Week 6: Advanced ML Algorithms
-* Week 7: NLP – Text, Embedding, and Representation Learning
-* Week 8: Debugging ML
+* Unit 1: Machine Learning in a Nutshell
+* Unit 2: Manage Data in ML
+* Unit 3: Train Common ML Models
+* Unit 4: Train a Linear Model
+* Unit 5: Evaluate and Improve Your Model
+* Unit 6: Improve Performance with Ensemble Methods
+* Unit 7: Use ML for Text Analysis
+* Unit 8: Prepare ML Models for the Real World
 
 Break Through Tech AI official website: https://www.breakthroughtech.org/what-we-do/the-ai-program/
